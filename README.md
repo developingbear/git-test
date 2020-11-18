@@ -5,5 +5,5 @@ Hello tigger!
 git stash test
 
 
-fast forward
+fast forward - same line
 three way other
