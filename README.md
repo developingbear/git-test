@@ -6,3 +6,4 @@ git stash test
 
 
 fast forward
+three way other
