@@ -3,7 +3,7 @@ Hello pooh!
 Hello piglet!
 Hello tigger!
 git stash test
-rebase conflict test
+feature reabse conflic
 
 fast forward - same line
 three way othe
