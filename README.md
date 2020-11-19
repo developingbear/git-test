@@ -6,4 +6,6 @@ git stash test
 
 
 fast forward - same line
-three way other
+three way othe
+
+-reabse test
