@@ -15,4 +15,4 @@ rebase12
 rebase3
 
 pr 실습
-pr 실습 충돌
+pr conflict test
